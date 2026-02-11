@@ -17,6 +17,7 @@ Učím se pracovat s:
 | HTML        | Struktura stránky |
 | CSS         | Stylování         |
 | JavaScript  | Interaktivita     |
+| PHP         | programování      |
 
 ## Kontakt
 
